@@ -1,2 +1,3 @@
 npm-demo-project
-this is an optional description - haha- this is for the @freecodecamp @cloud9 @npm project tutorials
+
+this is an optional README.md
