@@ -1,0 +1,25 @@
+{
+  "name": "@npatrick96/devenv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {  
+         "test": "node test.js"  
+  },  
+  "author": "npatrick96",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npatrick96/npm-demo-project.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/npatrick96/npm-demo-project/issues"
+  },
+  "homepage": "https://github.com/npatrick96/npm-demo-project#readme",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
